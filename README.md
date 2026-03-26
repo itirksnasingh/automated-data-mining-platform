@@ -166,14 +166,13 @@ The interactive dashboard provides the following modules:
 
 *(Add screenshots here)*
 
-### Dashboard Overview
-![Dashboard](images/dashboard.png)
+## 📸 Application Preview
 
-### Pattern Relationship Network
-![Network Graph](images/network.png)
-
-### Generated Insights Panel
-![Insights](images/insights.png)
+![Dashboard](images/Picture2.png)
+![Exploratory Analysis](images/Picture1.png)
+![Data Wrangling](images/Picture3.png)
+![Relationship Network](images/Picture5.png)
+![Insights](images/Picture4.png)
 
 ---
 
