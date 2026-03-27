@@ -161,10 +161,9 @@ The interactive dashboard provides the following modules:
 - Report Export
 
 ---
+## 🎥 Demo Video
 
-# 📸 Example Outputs
-
-*(Add screenshots here)*
+[![Watch Demo](images/Picture2.png)](https://drive.google.com/file/d/14D1f6ztyH9MO-x7K_54Ew5jINKYU7Mho/view?usp=drivesdk)
 
 ## 📸 Application Preview
 
